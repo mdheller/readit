@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+      "padding": 16,
+    }
+  }
+>
+  <TextInput
+    allowFontScaling={true}
+    autoFocus={true}
+    multiline={true}
+    onChangeText={[Function]}
+    value=""
+  />
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Object {
+        "color": "black",
+      }
+    }
+  >
+    0
+    /255
+  </Text>
+</View>
+`;
