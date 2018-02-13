@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Constants matches snapshot values 1`] = `"UPVOTE_TOPIC"`;
+
+exports[`Constants matches snapshot values 2`] = `"DOWNVOTE_TOPIC"`;
+
+exports[`Constants matches snapshot values 3`] = `"NEW_TOPIC"`;
